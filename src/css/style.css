@@ -1,0 +1,11 @@
+body {
+  background: #333;
+  color: #fff; }
+
+.content {
+  margin: 5%;
+  color: purple; }
+  .content__header {
+    color: red; }
+  .content__text {
+    color: green; }

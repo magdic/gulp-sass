@@ -1,0 +1,18 @@
+$bg-color: #333;
+$color: #fff;
+
+body {
+    background: $bg-color;
+    color:$color;
+}
+
+.content {
+    margin: 5%;
+    color: purple;
+    &__header {
+        color: red;
+    }
+    &__text {
+        color: green;
+    }
+}
